@@ -6,15 +6,6 @@
 **🛒 Latest: Modern eCommerce Unleashed**
   
 ---
-## 🔥 Featured Projects
-- **[Vita Trackr](https://github.com/utkarshk08/vita-trackr):** Health & fitness tracking powered by AI
-- **[GamingLOL](https://github.com/utkarshk08/gaminglol):** Multiplayer gaming innovations
-- **[Ecommerce Website](https://github.com/utkarshk08/ecommerce_website):** Premium online shopping platform
----
-## 🛠️ Technologies & Skills
-- JavaScript | Python | TypeScript | Java
-- Backend | Frontend | Automation | AI
----
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -30,3 +21,14 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ---
+## 🛠️ Technologies & Skills
+- JavaScript | Python | TypeScript | Java
+- Backend | Frontend | Automation | AI
+- 
+---
+## 🔥 Featured Projects
+- **[Vita Trackr](https://github.com/utkarshk08/vita-trackr):** Health & fitness tracking powered by AI
+- **[GamingLOL](https://github.com/utkarshk08/gaminglol):** Multiplayer gaming innovations
+- **[Ecommerce Website](https://github.com/utkarshk08/ecommerce_website):** Premium online shopping platform
+- 
+- ---
