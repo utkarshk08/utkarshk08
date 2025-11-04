@@ -4,9 +4,6 @@
 
 ### Full-Stack Developer | Java & JavaScript Enthusiast | AI & HealthTech Innovator 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/utkarshk08?label=Follow&style=social)](https://github.com/utkarshk08)
-[![Profile Views](https://komarev.com/ghpvc/?username=utkarshk08&color=blue&style=flat)](https://github.com/utkarshk08)
-
 </div>
 
 ---
