@@ -30,5 +30,3 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ---
-## 🚀 GitHub Highlights
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshk08&show_icons=true&theme=radical)
