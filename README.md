@@ -80,6 +80,8 @@ Robust backend infrastructure for web applications
 📫 Feel free to reach out for development opportunities or tech discussions
 
 ⭐ If you find my work interesting, consider starring my repositories!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/utkarshk08/)
+[![Email](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail)](mailto:utkarshk0804@gmail.com)
 
 </div>
 
