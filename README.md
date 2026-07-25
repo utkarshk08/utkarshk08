@@ -43,29 +43,23 @@
 
 ## 📌 Featured Projects
 
+### 🎓 [SkillSphere](https://github.com/utkarshk08/SkillSphere)
+Full-stack student skill-exchange and project-collaboration platform
+- 🤝 Skill sharing, communities, and project collaboration
+- 🔐 JWT authentication with role-based access control
+- 🚀 Spring Boot REST API with React and MySQL
+
 ### 🏥 [Vita Trackr](https://github.com/utkarshk08/vita-trackr)
 AI-powered health tracking application for monitoring wellness and fitness goals
 - 🎯 Real-time health metrics tracking
 - 📊 Data visualization and insights
 - 🤖 AI-driven recommendations
 
-### 🛒 [E-commerce Website](https://github.com/utkarshk08/ecommerce_website)
-Full-featured e-commerce platform with modern UI/UX
-- 💳 Secure payment integration
-- 🔐 User authentication & authorization
-- 📦 Product management system
-
 ### 🎮 [Gaming Platform](https://github.com/utkarshk08/gaminglol)
 Interactive gaming website with engaging user experience
 - 🎯 Real-time gameplay
 - 👥 Multiplayer support
 - 🏆 Leaderboards and achievements
-
-### ⚙️ [Backend Services](https://github.com/utkarshk08/backend)
-Robust backend infrastructure for web applications
-- 🔌 RESTful API design
-- 🔒 Security best practices
-- 📈 Scalable architecture
 
 ---
 ## 🤝 Let's Connect!
