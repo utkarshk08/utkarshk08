@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full-Stack Developer | Java & JavaScript Enthusiast | AI & HealthTech Innovator 🚀
+### Full-Stack Developer | Java & Spring Boot | React & JavaScript 🚀
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about building **scalable web applications** with modern technologies
-- 🌱 Currently exploring **AI-powered solutions** and **HealthTech innovations**
-- 🎯 Focus on **full-stack development** with Java backend and modern JavaScript frameworks
-- 🔭 Working on exciting projects in **E-commerce**, **Gaming**, and **Health Tracking**
-- 📍 Based in India
+- 🎓 **4th-year B.Tech student** passionate about building **scalable web applications** with modern technologies
+- 🌱 Deepening my expertise in **Spring Boot**, **Spring Security**, and **REST API development**
+- 🎯 Building **full-stack web applications** with **Java, Spring Boot, React, and MySQL**
+- 🔭 My main project is **SkillSphere**; I also build **CutRoom** and **VitaTrackr**
+- 📍 Based in **India**, open to **software development opportunities** and **project collaborations**
 
 ---
 
@@ -31,7 +31,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,17 +49,17 @@ Full-stack student skill-exchange and project-collaboration platform
 - 🔐 JWT authentication with role-based access control
 - 🚀 Spring Boot REST API with React and MySQL
 
-### 🏥 [Vita Trackr](https://github.com/utkarshk08/vita-trackr)
-AI-powered health tracking application for monitoring wellness and fitness goals
-- 🎯 Real-time health metrics tracking
-- 📊 Data visualization and insights
-- 🤖 AI-driven recommendations
+### 🎨 [CutRoom](https://github.com/utkarshk08/CutRoom)
+Poster wall studio that turns photos and collage sheets into measured wall layouts and print-ready packs
+- 🖼️ Editable cutouts, exact physical dimensions, and room previews
+- 🤖 AI-assisted poster arrangements and print-ready exports
+- ⚙️ React and TypeScript frontend; **Java / Spring Boot backend planned**
 
-### 🎮 [Gaming Platform](https://github.com/utkarshk08/gaminglol)
-Interactive gaming website with engaging user experience
-- 🎯 Real-time gameplay
-- 👥 Multiplayer support
-- 🏆 Leaderboards and achievements
+### 🏥 [VitaTrackr](https://github.com/utkarshk08/vita-trackr)
+AI-assisted health and nutrition application for tracking everyday wellness goals
+- 🎯 Meal, activity, and weight logging
+- 📊 Progress dashboards and data visualization
+- 🤖 AI-assisted recipe suggestions
 
 ---
 ## 🤝 Let's Connect!
