@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full-Stack Developer | Java & Spring Boot | React & JavaScript 🚀
+### Full-Stack Developer | Java & React | Learning by Building 🚀
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **4th-year B.Tech student** passionate about building **scalable web applications** with modern technologies
-- 🌱 Deepening my expertise in **Spring Boot**, **Spring Security**, and **REST API development**
-- 🎯 Building **full-stack web applications** with **Java, Spring Boot, React, and MySQL**
-- 🔭 My main project is **SkillSphere**; I also build **CutRoom** and **VitaTrackr**
-- 📍 Based in **India**, open to **software development opportunities** and **project collaborations**
+- 🎓 **4th-year B.Tech student** who enjoys turning ideas into useful web applications
+- 🌱 Exploring **backend design**, **REST APIs**, and **secure authentication**
+- 🎯 Working with **Java, Spring Boot, React, and MySQL** to build complete web applications
+- 🔭 Currently working on **SkillSphere**, **CutRoom**, and **VitaTrackr**
+- 📍 Based in **India**, open to **development opportunities** and **collaborations**
 
 ---
 
